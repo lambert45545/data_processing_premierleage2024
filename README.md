@@ -14,4 +14,4 @@ This project focuses on processing Premier League data for the year 2024. It inv
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+
